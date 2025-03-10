@@ -92,20 +92,21 @@ function setVolume(name, volume) {
 }
 
 // Ejemplo de cómo añadir botones, puedes personalizar estos según tus necesidades
+createSoundButton('FONDO', '00FONDO.mp3', '0');
 createSoundButton('CAMBIO DE ESCENA', '1INICIO.mp3', '1');
-createSoundButton('CAMBIO DE PARTES', '0CIERRE.mp3', '0');
-createSoundButton('ALARMA', '2ALARMA.mp3','2');
-createSoundButton('PAJAROS', '3PAJAROS.mp3', '3');
-createSoundButton('MASTICAR', '4MASTICAR.mp3', '4');
-createSoundButton('EJERCICIO', '5EJERCICIO.mp3', '5');
-createSoundButton('DUCHA', '6DUCHA.mp3','6');
-createSoundButton('PASOS', '7PASOS.mp3', '7');
-createSoundButton('TECLADO', '8TECLADO.mp3', '8');
-createSoundButton('FELICITACIONES', '9FELICITACIONES.mp3', '9');
-createSoundButton('RISAS FAMILIA', '10RISASFAMILIA.mp3', 'q');
-createSoundButton('NOTIFICACION', '11MESSENGER.mp3', 'w');
-createSoundButton('MUSICA ALEGRE', '12MUSICAALEGRE.mp3', 'e');
-createSoundButton('BILLETES', '13BILLETES.mp3', 'r');
-createSoundButton('ENTRADA IGLESIA', '14ENTRADAIGLESIA.mp3', 't');
-createSoundButton('CIERRE CANCION', '15CIERREEMOTIVO.mp3', 'y');
-createSoundButton('RELOJ', '16TICTAC.mp3', 'u');
+createSoundButton('CAMBIO DE PARTES', '0CIERRE.mp3', '2');
+createSoundButton('ALARMA', '2ALARMA.mp3','3');
+createSoundButton('PAJAROS', '3PAJAROS.mp3', '4');
+createSoundButton('MASTICAR', '4MASTICAR.mp3', '5');
+createSoundButton('EJERCICIO', '5EJERCICIO.mp3', '6');
+createSoundButton('DUCHA', '6DUCHA.mp3','7');
+createSoundButton('PASOS', '7PASOS.mp3', '8');
+createSoundButton('TECLADO', '8TECLADO.mp3', '9');
+createSoundButton('FELICITACIONES', '9FELICITACIONES.mp3', 'q');
+createSoundButton('RISAS FAMILIA', '10RISASFAMILIA.mp3', 'w');
+createSoundButton('NOTIFICACION', '11MESSENGER.mp3', 'e');
+createSoundButton('MUSICA ALEGRE', '12MUSICAALEGRE.mp3', 'r');
+createSoundButton('BILLETES', '13BILLETES.mp3', 't');
+createSoundButton('ENTRADA IGLESIA', '14ENTRADAIGLESIA.mp3', 'y');
+createSoundButton('CIERRE CANCION', '15CIERREEMOTIVO.mp3', 'u');
+createSoundButton('RELOJ', '16TICTAC.mp3', 'i');

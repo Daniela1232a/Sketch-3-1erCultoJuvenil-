@@ -110,5 +110,4 @@ createSoundButton('NOTIFICACION', '11MESSENGER.mp3', 't');
 createSoundButton('MUSICA ALEGRE', '12MUSICAALEGRE.mp3', 'y');
 createSoundButton('BILLETES', '13BILLETES.mp3', 'u');
 createSoundButton('ENTRADA IGLESIA', '14ENTRADAIGLESIA.mp3', 'i');
-createSoundButton('CIERRE CANCION', '15CIERREEMOTIVO.mp3', 'o');
-createSoundButton('RELOJ', '16TICTAC.mp3', 'p');
+createSoundButton('RELOJ', '16TICTAC.mp3', 'o');

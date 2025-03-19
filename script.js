@@ -92,22 +92,19 @@ function setVolume(name, volume) {
 }
 
 // Ejemplo de cómo añadir botones, puedes personalizar estos según tus necesidades
-createSoundButton('FONDO', '00FONDO.mp3', '0');
-createSoundButton('CAMBIO DE ESCENA', '1INICIO.mp3', '1');
-createSoundButton('CAMBIO DE PARTES', '0CIERRE.mp3', '2');
-createSoundButton('ALARMA', '2ALARMA.mp3','3');
-createSoundButton('PAJAROS', '3PAJAROS.mp3', '4');
-createSoundButton('MASTICAR', '4MASTICAR.mp3', '5');
-createSoundButton('EJERCICIO', '5EJERCICIO.mp3', '6');
-createSoundButton('DUCHA', '6DUCHA.mp3','7');
-createSoundButton('PASOS', '7PASOS.mp3', '8');
-createSoundButton('TECLADO', '8TECLADO.mp3', '9');
-createSoundButton('FELICITACIONES', '9FELICITACIONES.mp3', 'q');
-createSoundButton('FOTO', 'CAMARA.mp3', 'w');
-createSoundButton('YEEE', 'YEE.mp3', 'e');
-createSoundButton('RISAS FAMILIA', '10RISASFAMILIA.mp3', 'r');
-createSoundButton('NOTIFICACION', '11MESSENGER.mp3', 't');
-createSoundButton('MUSICA ALEGRE', '12MUSICAALEGRE.mp3', 'y');
-createSoundButton('BILLETES', '13BILLETES.mp3', 'u');
-createSoundButton('ENTRADA IGLESIA', '14ENTRADAIGLESIA.mp3', 'i');
-createSoundButton('RELOJ', '16TICTAC.mp3', 'o');
+createSoundButton('ENTRADA', 'ENTRADA.mp3', '0');
+createSoundButton('FONDO', '00FONDO.mp3', '1');
+createSoundButton('CAMBIO DE ESCENA', '1INICIO.mp3', '2');
+createSoundButton('CAMBIO DE PARTES', '0CIERRE.mp3', '3');
+createSoundButton('GALLO', 'GALLO.mp3','4');
+createSoundButton('PAJAROS', '3PAJAROS.mp3', '5');
+createSoundButton('MASTICAR', '4MASTICAR.mp3', '6');
+createSoundButton('EJERCICIO', '5EJERCICIO.mp3', '7');
+createSoundButton('DUCHA', '6DUCHA.mp3','8');
+createSoundButton('PASOS', '7PASOS.mp3', '9');
+createSoundButton('TECLADO', '8TECLADO.mp3', 'q');
+createSoundButton('FELICITACIONES', '9FELICITACIONES.mp3', 'w');
+createSoundButton('FOTO', 'CAMARA.mp3', 'e');
+createSoundButton('YEEE', 'YEE.mp3', 'r');
+createSoundButton('ENTRADA IGLESIA', '14ENTRADAIGLESIA.mp3', 't');
+createSoundButton('RELOJ', '16TICTAC.mp3', 'y');
